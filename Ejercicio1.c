@@ -5,7 +5,7 @@
 #include <termio.h>
 #include <sys/ioctl.h>
 #include <sys/types.h>
-/**/
+/**///
 #define MAX_THREAD 1000
 
 typedef struct{
